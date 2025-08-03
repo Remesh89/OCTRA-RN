@@ -2,3 +2,4 @@ Wed
 thu
 fri
 sat
+sund
