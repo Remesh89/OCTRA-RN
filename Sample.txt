@@ -3,4 +3,3 @@ thu
 fri
 sat
 sund
-monday
