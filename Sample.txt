@@ -4,3 +4,4 @@ fri
 sat
 sund
 Tue
+wed
