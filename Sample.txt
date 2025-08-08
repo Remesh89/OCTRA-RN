@@ -6,3 +6,4 @@ sund
 Tue
 wed
 the
+fri
