@@ -7,3 +7,4 @@ Tue
 wed
 the
 fri
+sat
