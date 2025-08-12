@@ -8,4 +8,5 @@ wed
 the
 fri
 satr
-monday
+monday 
+Tue
