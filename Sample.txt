@@ -10,3 +10,4 @@ fri
 satr
 monday 
 Tue
+wed
