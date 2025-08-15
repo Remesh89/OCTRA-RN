@@ -11,3 +11,4 @@ satr
 monday 
 Tue
 wed
+friday
