@@ -12,3 +12,4 @@ monday
 Tue
 wed
 friday
+missed satrdy
