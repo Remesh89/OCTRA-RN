@@ -13,3 +13,4 @@ Tue
 wed
 friday
 missed satrdy
+monday
