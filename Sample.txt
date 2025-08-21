@@ -16,3 +16,4 @@ missed satrdy
 monday
 tues
 the
+friday
