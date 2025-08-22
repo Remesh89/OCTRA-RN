@@ -17,3 +17,4 @@ monday
 tues
 the
 friday
+satrday
