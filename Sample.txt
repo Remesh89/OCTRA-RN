@@ -18,3 +18,4 @@ tues
 the
 friday
 satrday
+ str
