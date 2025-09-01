@@ -20,3 +20,4 @@ friday
 satrday
  str
  01/09/25
+ 01/9/25
